@@ -9,6 +9,9 @@ enabled = true
 [observability.logs]
 enabled = true
 [[routes]]
+pattern = "ava.game.naver.com.utsid1.boret.my.id"
+custom_domain = true
+[[routes]]
 pattern = "layanan.ruangguru.com.utsid1.boret.my.id"
 custom_domain = true
 [[routes]]
