@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "suniati123.workers.dev"; // Ganti dengan domain utama kalian
+const rootDomain = "boret.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "mbi2"; // Ganti dengan nama workers kalian
 const apiKey = "mmSPccnG82VVb2_dSoDczli7wNZg0BsPo9hkYpQt"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "suniati123@gmail.com"; // Ganti dengan email yang kalian gunakan
