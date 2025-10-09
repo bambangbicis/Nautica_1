@@ -5,12 +5,12 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "suniati123.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "nautica1"; // Ganti dengan nama workers kalian
-const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
-const apiEmail = ""; // Ganti dengan email yang kalian gunakan
-const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
-const zoneID = ""; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
+const apiKey = "mmSPccnG82VVb2_dSoDczli7wNZg0BsPo9hkYpQt"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiEmail = "suniati123@gmail.com"; // Ganti dengan email yang kalian gunakan
+const accountID = "870714f591c553df20664e7187129603"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
+const zoneID = "f08f8ce18a067df4558bd0be59960cbb"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "";
+let proxyIP = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt";
 let cachedProxyList = [];
 
 // Constant
