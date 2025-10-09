@@ -6,15 +6,6 @@ compatibility_flags = ["nodejs_compat_v2"]
 [unsafe.metadata.observability]
 enabled = true
 
-[observability.logs]
-enabled = true
-[[routes]]
-pattern = "ava.game.naver.com.utsid1.boret.my.id"
-custom_domain = true
-[[routes]]
-pattern = "roboguru.ruangguru.com.utsid1.boret.my.id"
-custom_domain = true
-
 [vars]
 # PROXYIP = "211.230.110.231:50008"
 UUID = "0edca2f7-f90f-461e-bcdf-c8af52d26a35"
