@@ -12,16 +12,6 @@ enabled = true
 pattern = "ava.game.naver.com.utsid1.boret.my.id"
 custom_domain = true
 [[routes]]
-pattern = "layanan.ruangguru.com.utsid1.boret.my.id"
-custom_domain = true
-[[routes]]
-pattern = "img.email3.vidio.com.utsid1.boret.my.id"
-custom_domain = true
-[[routes]]
-pattern = "quiz.vidio.com.utsid1.boret.my.id"
-custom_domain = true
-[[routes]]
-[[routes]]
 pattern = "roboguru.ruangguru.com.utsid1.boret.my.id"
 custom_domain = true
 
