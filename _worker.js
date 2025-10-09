@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "suniati123.workers.dev"; // Ganti dengan domain utama kalian
-const serviceName = "nautica1"; // Ganti dengan nama workers kalian
+const serviceName = "mbi2"; // Ganti dengan nama workers kalian
 const apiKey = "mmSPccnG82VVb2_dSoDczli7wNZg0BsPo9hkYpQt"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "suniati123@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "870714f591c553df20664e7187129603"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
