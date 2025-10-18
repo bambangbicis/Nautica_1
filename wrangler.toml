@@ -1,4 +1,4 @@
-name = "mbi2"
+name = "nautica1"
 main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat_v2"]
@@ -8,4 +8,4 @@ enabled = true
 
 [vars]
 # PROXYIP = "211.230.110.231:50008"
-UUID = "e2a9d55c-de62-4a71-b2d1-4500187eb3ac"
+UUID = "ac08fabe-1076-4062-bdd3-c7f5d5dccd9c"
